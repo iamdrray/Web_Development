@@ -1,1 +1,1 @@
-This is a repository for my Web development learning.
+This is a repository for my Web Development learning.
