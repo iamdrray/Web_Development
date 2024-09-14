@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, Sans-Serif;
+}
+
+header, footer {
+  text-align: center;
+  background-color: #F4F4F4;
+  padding: 10px;
+}
+
+header img {
+  margin-bottom: 10px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+section {
+  margin: 20px;
+  background-color: #e9e9e9;
+}
+
+#about_me, #my_work {
+  padding: 20px;
+}
+.project {
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  display: inline-block;
+  border: 1px solid #ccc;
+  line-height: 100px;
+}
+
+#back_top {
+  text-align: right;
+}
